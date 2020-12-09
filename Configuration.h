@@ -463,7 +463,7 @@
 // This can protect components from overheating, but NOT from shorts and failures.
 // (Use MINTEMP for thermistor short/failure protection.)
 //#define HEATER_0_MAXTEMP 275    //stock SV01 hotend heater
-#define HEATER_0_MAXTEMP 500      //DyzEnd 500c thermistor
+#define HEATER_0_MAXTEMP 335      //DyzEnd 500c thermistor
 #define HEATER_1_MAXTEMP 275
 #define HEATER_2_MAXTEMP 275
 #define HEATER_3_MAXTEMP 275
